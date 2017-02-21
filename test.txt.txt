@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Alo 12354
 update
+=======
+>>>>>>> parent of 75ec6ab... update file test.txt
